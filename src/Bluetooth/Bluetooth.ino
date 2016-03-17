@@ -1,10 +1,10 @@
 /*
   Chris Nethercott / ThorinDev
-  (PROJECT NAME)
+  Bluetooth
 */
 
 void setup() {
-  // Setup goes here!
+  Serial.begin(9600);
 }
 
 void loop() {
